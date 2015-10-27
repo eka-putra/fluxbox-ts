@@ -1,7 +1,7 @@
 # fluxbox-ts
 Fluxbox Theme Save (style, init, apps, gtk theme, icon, and wallpaper)
 
-## How To
+### How To
 - mkdir /home/user_name/.fluxbox/themes
 - sudo cp fluxbox-ts /usr/bin
 
